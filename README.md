@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋 I'm Arulpandi
 
-<!--
-**Arulpandi-aj/Arulpandi-aj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ☁️ Cloud & AWS Enthusiast
 
-Here are some ideas to get you started:
+I am passionate about building secure and scalable cloud solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Learning AWS & Cloud Architecture  
+🔹 Interested in Data Engineering & DevOps  
+🔹 Building real-world cloud projects  
+
+---
+
+## 🚀 Skills
+- AWS
+- Python
+- SQL
+- Git & GitHub
+- Linux
+- Cloud Architecture
+
+---
+
+## 📌 Projects
+- CloudFlow AWS Architecture Project
+- Spotify End-to-End Data Engineering Pipeline
+
+---
+
+## 🔗 Connect with me
+LinkedIn: https://www.linkedin.com/in/arulpandi
