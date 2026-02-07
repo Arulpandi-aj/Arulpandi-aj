@@ -9,8 +9,6 @@ Senior Process Executive — Omega Healthcare Management Services (2.5 Years)
 - Analyzed and handled denial codes (CO, PR, OA) and supported resolution workflows
 - Performed claim reconciliation and resolved payment posting discrepancies
 - Maintained strict HIPAA compliance and data confidentiality standards
-- Reduced posting errors through quality checks and audit-based corrections
-- Collaborated with AR and QA teams to improve payment turnaround time
 - Managed end-to-end RCM posting lifecycle across multiple payer types
 
 ---
@@ -20,11 +18,6 @@ Senior Process Executive — Omega Healthcare Management Services (2.5 Years)
 - Medical Billing & Revenue Cycle Management (RCM)
 - Payment Posting (Manual & ERA)
 - Denial Code Analysis & Resolution Support
-- Claim Reconciliation & Variance Resolution
-- EOB / ERA Interpretation
-- Adjustment & Contractual Posting
-- HIPAA Compliance Handling
-- Billing Software & Workflow Tools
 - High Accuracy & Quality Review
 
 ---
