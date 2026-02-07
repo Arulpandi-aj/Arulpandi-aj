@@ -34,4 +34,4 @@ I am passionate about building secure and scalable cloud solutions.
 ---
 
 ## 🔗 Connect with me
-LinkedIn: https://www.linkedin.com/in/arulpandi
+LinkedIn: [Linkdin](https://www.linkedin.com/in/arul-pandi)
