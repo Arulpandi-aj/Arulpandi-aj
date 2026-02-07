@@ -19,6 +19,13 @@ I am passionate about building secure and scalable cloud solutions.
 - Cloud Architecture
 
 ---
+## 🏆 Certifications & Badges
+
+![AWS Cloud practitioner](https://www.credly.com/badges/d2c5eee7-3140-440e-98a0-9975fa2f8ffc/public_url)
+[![AWS Badge](https://www.credly.com/users/arulpandi-arumugam/badges#credly)
+
+
+---
 
 ## 📌 Projects
 - CloudFlow AWS Architecture Project
